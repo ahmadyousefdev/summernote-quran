@@ -31,7 +31,7 @@ we used [font awesome](https://fontawesome.com/) to display the quran icon, you 
 Currently, this plugin only supports Arabic verses.
 
 ## Example
-You can find a working example in the `dist/index.html` file.
+You can find a working example in the [dist/index.html](https://github.com/ahmadyousefdev/summernote-quran/blob/main/dist/index.html) file.
 
-5. Sources
+## Sources
 We used the [Quran JSON](https://github.com/risan/quran-json) package to retrieve the Quranic verses, but we have modified it by adding a plain_text field for better and faster search functionality.
